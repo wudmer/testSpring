@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+        <authors id="0" name="AA" gender="male" born="1997-10-05"/>
+        <authors id="1" name="Mr1" gender="male" born="1997-10-05"/>
+        <authors id="2" name="Mr2" gender="male" born="1907-10-05"/>
+
+        <books id="0" name="aa" published="1907-10-05" genre="crime" rating="5"/>
+        <books id="1" name="ss" published="1907-10-05" genre="novel" rating="5"/>
+        <books id="2" name="dd" published="1907-10-05" genre="tech" rating="5"/>
+        <books id="3" name="ff" published="1907-10-05" genre="tech" rating="5"/>
+
+        <author_book id="0" bookId="0" authorId="0"/>
+        <author_book id="1" bookId="1" authorId="0"/>
+        <author_book id="2" bookId="2" authorId="0"/>
+        <author_book id="3" bookId="3" authorId="1"/>
+
+
+</dataset>
